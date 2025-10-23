@@ -3,3 +3,5 @@ The lab1.2.zip is a zip file containing the first experiment's 1.2 section - the
 The lab2.1.zip is a zip file containing the experiment's 2.1 section - the counter.
 
 The lab2_3 latch.zip is a zip file containing the experiment's 2.3 section
+
+The lab3 latch.zip is a zip file containing the experiment's 3 section
